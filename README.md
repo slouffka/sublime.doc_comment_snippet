@@ -12,7 +12,7 @@ Where [TAB] is replaced by pressing the actual tab key. That expands the comment
 Becomes:
 
 > /\*\*<br/>
-> &nbsp;&nbsp;\*^<br/>
+> &nbsp;&nbsp;\*&nbsp;^<br/>
 > &nbsp;&nbsp;\*/
 
 The cursor is placed at the "^" marker.
